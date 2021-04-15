@@ -1,0 +1,10 @@
+:root {
+    --body-background-color: #0f143a;
+    --primary-text-color: #FFF;
+    --header-background-color: #4985e8;
+    --answer-text-color: #4985e8;
+    --answer-background-color: #fff;
+    --answer-hover-color: #c9d9f3; 
+    --answer-wrong-color: #830000;
+    --answer-correct-color: #3bff3b; 
+}
